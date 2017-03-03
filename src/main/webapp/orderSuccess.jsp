@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="mystyle.css">
     </head>
     <body>
-        <h1><a href="home.html">John's Online Pizza Store</a></h1>
+        <h1><a href="home.html">Moran's Online Pizza Store</a></h1>
         <h2>Order Success! Thank you for your order!</h2>
         <h3>Order details:</h3>
         <p>Email = ${myOrder.email}</p>
